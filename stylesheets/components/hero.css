@@ -8,6 +8,7 @@
     background-position: top center; 
     font-family: 'Poppins';
     color: white;
+    position: relative;
 }
 
 .herobb{
@@ -68,13 +69,18 @@
 .about{
     display: flex;
     justify-content: center;
-    margin-top: 38%;
+    margin-top: 42%;
 }
 
 .about h1{
     font-size: 60px;
     line-height: 1.2;
     margin-bottom: 5%;
+}
+
+.aboutbb{
+    position: absolute;
+    margin-top: -15%;
 }
 
 .aboutbbb{
