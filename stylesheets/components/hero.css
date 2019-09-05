@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+.hero{
+    font-family: 'Poppins';
+    background-image: url("/images/bg_1.jpg");    
+    background-size: cover;
+    background-position: center center;  
+}
+
+header{
+    background: transparent;
+}
+
+header a{
+    text-decoration: none;
+    color: white;   
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.vacaciones{
+    display: grid;
+    background: #33313b;
+    padding: 20px ;
+    text-align: center;
+}
+
+.vacaciones-top{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.vacaciones-bottom{
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+
+.enlaces{
+    display: flex;
+    margin-top: 40px;
+}
+
+.enlaces a{
+    padding: 0 4%;
+    font-size: 13px;
+}
