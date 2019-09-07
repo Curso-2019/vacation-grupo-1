@@ -1,0 +1,87 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.section-feedback
+{
+    font-family: Poppins;
+    background: url(../../images/bg_3.jpg);
+    background-position: bottom;
+    background-size: cover; 
+    padding: 40px;
+    padding-bottom: 150px;
+}
+.container.flex
+{
+    display: flex;
+}
+
+.feedback
+{
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    padding-right: 40px;
+}
+
+.img.person
+{
+    width: 80px;
+    border-radius: 50%;
+}
+
+.touristtittle
+{
+    text-align: center;
+    margin-bottom: 90px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.profile
+{
+    display: flex;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.description h3, .description h2
+{
+    font-weight: 500;
+}
+
+.description
+{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.col
+{
+    width: 33.33%;
+    padding-left: 25px;
+}
+
+.ptext
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #999;
+    line-height: 28.8px;
+}
+
+.h2name
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.h3rol
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #ccc;
+}
