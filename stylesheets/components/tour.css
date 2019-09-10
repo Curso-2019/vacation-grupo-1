@@ -11,6 +11,7 @@
 	position: relative;
 }
 .tour .img-tour{
+	width:250px;
 	background-image: url("../../images/place-1.jpg");
 	background-size: cover;
 	background-position:center center;
@@ -27,14 +28,14 @@
 	font-weight: 400;
 }
 .n-tour{
-	position: absolute;
-    bottom: 25px;
-    right: 0;
-    text-align: right;
-    background: #424242;
-    border-radius: 50px 0 0 50px;
-	padding: 4px 4px 4px 14px;
-	transition:0.2s;
+		position: absolute;
+   		bottom: 25px;
+    	right: 0;
+    	text-align: right;
+    	background: #424242;
+    	border-radius: 50px 0 0 50px;
+		padding: 4px 4px 4px 14px;
+		transition:0.2s;
 }
 
 .tour:hover a .n-tour{
