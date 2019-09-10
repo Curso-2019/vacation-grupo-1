@@ -4,6 +4,7 @@
 /* Components */
 @import 'components/tour.css';
 @import 'components/feedback.css';
+@import 'components/post.css';
 /* Views */
 @import 'home.css';
 @import 'about.css';
