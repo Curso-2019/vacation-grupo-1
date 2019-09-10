@@ -11,6 +11,8 @@
 @import 'components/about-section.css';
 @import 'components/adventure-section.css';
 @import 'components/form.css';
+@import 'components/memorable.css';
+
 
 /* Views */
 @import 'home.css';

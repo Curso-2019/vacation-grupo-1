@@ -1,0 +1,56 @@
+*{
+    font-family:'Poppins';
+}
+
+.memorable-section{
+    display:flex
+}
+
+.memorable-section .col{
+    width:50%; 
+}
+
+.memorable-section .col .img{  
+    background-image: url("../../images/about.jpg");
+    background-position: center center;
+    background-size: cover;
+    width: 537px;
+    height: 521px;
+    padding: 0px 8px;
+}
+
+.n-n, .names, .numbers{
+    display:flex;
+    justify-content: space-around;
+}
+
+.names, .numbers{
+    width:100%;
+}
+
+.n-n{
+    flex-wrap: wrap;
+}
+
+.memorable-section .memo-h2{
+    font-size: 43px;
+    margin-top: 50px;
+    font-weight: 600;
+    color: #343434;
+}
+
+.memorable-section .memo-p{
+    margin: 35px 0;
+    color:#343434;
+}
+
+.memorable-section .numbers{
+    color:#f9ab31;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.memorable-section h3{
+    font-weight: 600;
+
+}
