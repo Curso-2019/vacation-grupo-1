@@ -1,0 +1,77 @@
+footer{
+    background-image: url('../../images/footer-bg.jpg');
+    background-position: bottom;
+    background-size: cover;
+    color: white;
+    padding: 112px 0;
+    font-family: Poppins;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container .footer-col{
+    padding: 0 15px;
+    width: 25%;
+}
+.footer-col .footer-titulos{
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.footer-col p{
+    color: #c1c1c1;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.footer-col .redes-footer a{
+    color: white;
+    border-radius: 50%;
+    background: rgba(255,255,255,.05);
+    width: 50px;
+    height: 50px;
+    display: block;
+    float: left;
+    margin-right: 19px;
+    position: relative;
+    margin-top: 42px;
+}
+.footer-col .redes-footer a ion-icon{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    font-size: 26px;
+}
+.footer-col .link-footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer-col .link-footer ul li{
+    list-style: none;
+    padding: 8px 0;
+}
+.footer-col .link-footer ul li a{
+    text-decoration: none;
+    color: #8d8d90;
+}
+.footer-col .bloque-footer{
+    display: flex;
+}
+.footer-col .bloque-footer ion-icon{
+    margin-right: 31px;
+}
+.footer-col .bloque-footer .footer-pin{
+    font-size: 44px;
+}
+.footer-col .bloque-footer a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 11px;
+}
+.textofinal-footer{
+    text-align: center;
+    color: rgba(255,255,255,.7);
+    font-size: 16px;
+    margin-top: 80px;
+}
