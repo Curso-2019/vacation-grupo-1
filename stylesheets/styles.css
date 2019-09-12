@@ -8,6 +8,9 @@
 @import 'components/footer.css';
 @import 'components/hero.css';
 @import 'components/mapa.css';
+@import 'components/about-section.css';
+@import 'components/adventure-section.css';
+
 /* Views */
 @import 'home.css';
 @import 'about.css';
