@@ -1,7 +1,3 @@
-*{
-    box-sizing: border-box;
-}
-
 .hero{
     background-image: url("../../images/bg_1.jpg");  
     background-size: cover;
@@ -32,7 +28,9 @@
     padding: 24px;
     line-height: 1.2;
     text-align: center;
-}.vacaciones span{
+}
+
+.vacaciones span{
     font-size: 12px;
     font-weight: 600;
     display: block;
@@ -48,7 +46,9 @@
     font-size: 15px;
     padding: 0 16px;
     font-weight: 400;
-}.enlaces a:hover{
+}
+
+.enlaces a:hover{
     color: black;
     transition: 1.2s;
 }
@@ -64,39 +64,41 @@
     border-radius: 2px; 
 }
 
-.about{
+.hero .about{
     display: flex;
     justify-content: center;
     margin-top: 42%;
 }
 
-.about h1{
+.hero .about h1{
     font-size: 60px;
     line-height: 1.2;
     margin-bottom: 5%;
 }
 
-.aboutbb{
+.hero .aboutbb{
     position: absolute;
     margin-top: -15%;
 }
 
-.aboutbbb{
+.hero .aboutbbb{
     display: flex;
     justify-content: center;
     font-size: 16px;
     font-weight: 400;
 }
 
-.aboutbbb a{
+.hero .aboutbbb a{
     text-decoration: none;
     color: white;
     padding-right: 15px;
-}.aboutbbb a:hover{
+}
+
+.hero .aboutbbb a:hover{
     color: orange;
     transition: 1s;
 }
 
-.aboutbbb p{
+.hero .aboutbbb p{
     color: #f2f2f2;
 }
