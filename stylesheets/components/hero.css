@@ -1,0 +1,104 @@
+.hero{
+    background-image: url("../../images/bg_1.jpg");  
+    background-size: cover;
+    background-position: top center; 
+    font-family: 'Poppins';
+    color: white;
+    position: relative; 
+}
+
+.herobb{
+    background: linear-gradient(40deg, rgba(47,136,252,0.2) 0%, rgba(255,89,89,0.2) 100%);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header a, .enlaces a{
+    text-decoration: none;
+    color: white;
+}
+
+.vacaciones {
+    background: #33313b;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 24px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.vacaciones span{
+    font-size: 12px;
+    font-weight: 600;
+    display: block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.enlaces{
+    margin-top: 33px;
+}
+
+.enlaces a{
+    font-size: 15px;
+    padding: 0 16px;
+    font-weight: 400;
+}
+
+.enlaces a:hover{
+    color: black;
+    transition: 1.2s;
+}
+
+.enlaces  .orange{
+    color: orange;
+}
+
+.enlaces span{
+    padding: 15px 18px; 
+    background: orange;
+    border: 1px solid orange;
+    border-radius: 2px; 
+}
+
+.hero .about{
+    display: flex;
+    justify-content: center;
+    margin-top: 42%;
+}
+
+.hero .about h1{
+    font-size: 60px;
+    line-height: 1.2;
+    margin-bottom: 5%;
+}
+
+.hero .aboutbb{
+    position: absolute;
+    margin-top: -15%;
+}
+
+.hero .aboutbbb{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hero .aboutbbb a{
+    text-decoration: none;
+    color: white;
+    padding-right: 15px;
+}
+
+.hero .aboutbbb a:hover{
+    color: orange;
+    transition: 1s;
+}
+
+.hero .aboutbbb p{
+    color: #f2f2f2;
+}
