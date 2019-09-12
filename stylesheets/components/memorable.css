@@ -48,13 +48,22 @@
     color:#a2a2a2;
 }
 
+.memorable-section .caja-de-mierda{
+    text-align: center;
+    color:#a2a2a2;
+}
+
 .memorable-section .numbers{
-    color:#f9ab31;
     font-size: 24px;
     font-weight: 600;
 }
 
 .memorable-section h3{
+    font-size: 24px;
     font-weight: 600;
+    color:#f9ab31;
+}
 
+.memorable-section .caja-de-mierda div{
+    font-size:14px;
 }
