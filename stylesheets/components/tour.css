@@ -1,9 +1,7 @@
-*{
-	font-family: 'Poppins'
-}
 .tour{
 	border-radius: 5px;
 	height: 320px;
+	font-family: 'Poppins'
 }
 .tour a{
 	text-decoration:none;
@@ -27,7 +25,7 @@
 	left:10px;
 	font-weight: 400;
 }
-.n-tour{
+.tour .n-tour{
 	position: absolute;
    	bottom: 25px;
     right: 0;
