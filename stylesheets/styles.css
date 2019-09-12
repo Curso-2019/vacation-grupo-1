@@ -10,6 +10,7 @@
 @import 'components/mapa.css';
 @import 'components/about-section.css';
 @import 'components/adventure-section.css';
+@import 'components/form.css';
 
 /* Views */
 @import 'home.css';
