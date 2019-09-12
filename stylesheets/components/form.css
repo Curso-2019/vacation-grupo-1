@@ -1,24 +1,26 @@
-form{
+.contact-form{
     display: grid;
     background: #f2f2f2;
+    padding: 25px;
 }
 
-input{
+.contact-form input{
     padding: 20px 250px 20px 30px;
     margin-bottom: 10px;
     border-radius: 5px;
     border: 1px solid gainsboro;
+    font-size: 16px;
 }
 
-textarea{
+.contact-form textarea{
     padding: 20px 250px 20px 30px;
     margin-bottom: 10px;
     border-radius: 5px;
     border: 1px solid gainsboro;
-    font-size: 15px;
+    font-size: 16px;
 }
 
-button{
+.contact-form button{
     color: white;
     text-decoration: none;
     background: orange;
