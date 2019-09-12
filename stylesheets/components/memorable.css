@@ -17,6 +17,11 @@
     padding: 0px 8px;
 }
 
+.memorable-section .col.padding{
+    padding-left: 64px;
+
+}
+
 .memorable-section .n-n, .names, .numbers{
     display:flex;
     justify-content: space-around;
@@ -31,7 +36,7 @@
 }
 
 .memorable-section .memo-h2{
-    font-size: 43px;
+    font-size: 41px;
     margin-top: 50px;
     font-weight: 600;
     color: #343434;
@@ -39,7 +44,8 @@
 
 .memorable-section .memo-p{
     margin: 35px 0;
-    color:#343434;
+    letter-spacing: 0.5px;
+    color:#a2a2a2;
 }
 
 .memorable-section .numbers{
