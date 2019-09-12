@@ -1,9 +1,7 @@
-*{
-    font-family:'Poppins';
-}
 
 .memorable-section{
-    display:flex
+    display:flex;
+    font-family:'Poppins';
 }
 
 .memorable-section .col{
@@ -19,16 +17,16 @@
     padding: 0px 8px;
 }
 
-.n-n, .names, .numbers{
+.memorable-section .n-n, .names, .numbers{
     display:flex;
     justify-content: space-around;
 }
 
-.names, .numbers{
+.memorable-section .names, .numbers{
     width:100%;
 }
 
-.n-n{
+.memorable-section .n-n{
     flex-wrap: wrap;
 }
 
