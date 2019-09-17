@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo</title>
+  <link rel="stylesheet" href="../stylesheets/styles.css">
+  <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
+
+  <style>
+    .tour-grid{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .tour-col{
+      width: 20%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="search">
+      <div class="col-search">
+        <div class="name-search">
+          <label for="Destination">Destination</label>
+        </div><!--cierre name-search-->
+        <div class="in-text">
+          <ion-icon name="search"></ion-icon>
+          <input type="text" placeholder="Search place" id="Destination" >
+        </div><!--cierre in-text-->
+      </div><!--cierre col-serch-->
+      <div class="col-search">
+        <div class="name-search">
+          <label for="check-in">Check-in date</label>
+        </div><!--cierre name-search-->
+        <div class="in-text">
+          <ion-icon name="calendar"></ion-icon>
+          <input type="text" placeholder="Check-in date" id="check-in" >
+        </div><!--cierre in-text-->
+      </div><!--cierre col-serch-->
+      <div class="col-search">
+        <div class="name-search">
+          <label for="">Check-out date</label>
+        </div><!--cierre name-search-->
+        <div class="in-text">
+          <ion-icon name="calendar"></ion-icon>
+          <input type="text" placeholder="Check-out date" id="check-out" >
+        </div><!--cierre in-text-->
+      </div><!--cierre col-serch-->
+      <div class="col-search">
+        <div class="name-search">
+          <label for="">Price Limit</label>
+          <div class="in-text">
+            <ion-icon name="ios-arrow-down"></ion-icon>
+            <select name="precio" id="precio">
+              
+              <option value="diezmil">$5.000</option>
+              <option value="veintemil">$20.000</option>
+              <option value="treintamil">$30.000</option>
+              <option value="cuarentamil">$40.000</option>
+            </select>
+          </div><!--cierre in-text-->
+        </div><!--cierre name-search-->
+      </div><!--cierre col-serch-->
+      <div class="col-search">
+        <button>
+          Search
+
+        </button><!--cierre button-->
+      </div><!--cierre col-search-->
+    </div> <!--cierre search-->
+  </div><!--cierre container-->
+</body>
+</html>
