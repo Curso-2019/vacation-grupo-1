@@ -1,3 +1,8 @@
+.vacation-icon
+{
+    font-family: poppins;
+}
+
 .vacation-icon .text-icon-content a, .vacation-icon .text-icon-content p
 {
     text-align: center;
@@ -26,7 +31,7 @@
 }
 
 
-.vacation-icon .vacation-icon .color999
+.vacation-icon .color999
 {
     color: #999;
 }

@@ -1,0 +1,14 @@
+.contact-view .flex-4
+{
+    display: flex;
+}
+
+.contact-view .flex-4 .col
+{
+    width: 25%;
+}
+
+.contact-view .container-flex-4
+{
+    padding: 112px;
+}
