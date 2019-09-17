@@ -1,0 +1,335 @@
+[33mcommit 73e52a15cedc65834c7a898669efa5e7c3af7f31[m[33m ([m[1;36mHEAD -> [m[1;32mmemorable-section[m[33m, [m[1;31morigin/memorable-section[m[33m)[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 22:43:03 2019 -0300
+
+    Lo mejore aun mas por culpa del perfeccionista de Nico
+
+[33mcommit 84993233179a82cba7b369395734585c885d6b9a[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 22:26:35 2019 -0300
+
+    Mejoré la wea
+
+[33mcommit 1b0204126b1f2bfad6ac72ac155583341d826d22[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 21:43:19 2019 -0300
+
+    Añadí los padres correspondientes en el css
+
+[33mcommit 0fc7a32e9107c2f15eb8dc3b73c0da1d02df20fc[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Mon Sep 9 21:46:03 2019 -0300
+
+    Hice la seccion de memorable, bastante rica a mi parecer
+
+[33mcommit dc62b344af1c18d4205707f28bbbe1fa651d5651[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: f79156c f8d7b5f
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 22:46:24 2019 -0300
+
+    Merge pull request #9 from Curso-2019/form
+    
+    Form
+
+[33mcommit f8d7b5fc82282f7110d649868f377c9cb7bcc6c2[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 11 22:35:40 2019 -0300
+
+    Cambie style 2.0
+
+[33mcommit 3d3186583c94c4eff176d83e6f48819289f2ac4d[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 11 22:30:09 2019 -0300
+
+    Cambie styles
+
+[33mcommit d6e863e7b4845fa450fde20de326afa64cd25184[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 11 22:21:05 2019 -0300
+
+    Puse padding y class
+
+[33mcommit 445e45d1ec8ad61be716024823b11af2d041ddc1[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Mon Sep 9 23:00:25 2019 -0300
+
+    Termine el css
+
+[33mcommit 8eb0e141279127dbb64af06a7016a1c26bd74618[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Mon Sep 9 22:32:05 2019 -0300
+
+    He terminado el html
+
+[33mcommit f79156c2adffeaa572ef3c7c6a5e46c3a14e8628[m
+Merge: fddffa2 92c6996
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 22:41:49 2019 -0300
+
+    Merge pull request #6 from Curso-2019/adventure-section
+    
+    Adventure section
+
+[33mcommit 92c6996a8136aa527bb85261ce7458599ea2be3e[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Sat Sep 7 01:59:30 2019 -0300
+
+    Añadi los comentarios en el codigo del html
+
+[33mcommit 79fbc19d7fbaa61d974c56a3b4001cac07547842[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Sat Sep 7 01:46:32 2019 -0300
+
+    Cambie class y saque algunos estilos que estaban de más
+
+[33mcommit 05a52256ac35df870ba3fc483d837e3b2e490e6c[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Fri Sep 6 22:04:33 2019 -0300
+
+    Cambie las class
+
+[33mcommit d78ef5a1aa05cd068fb14a8b88ca321ae50abf61[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Fri Sep 6 21:41:51 2019 -0300
+
+    Termine agregar codigo en el html
+
+[33mcommit bcce2ebfd8668501c9e874d4d798b984c3ac3e18[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Fri Sep 6 21:25:29 2019 -0300
+
+    He creado el html y css de adventure-section
+
+[33mcommit fddffa2fee44f53769f49d74f4f6063b7e3e7e3e[m
+Merge: cd763ec 2e1d2d9
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 22:21:16 2019 -0300
+
+    Merge pull request #10 from Curso-2019/mapa
+    
+    Mapa
+
+[33mcommit 2e1d2d9451f806101332f67a156594197944154f[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 11 22:05:16 2019 -0300
+
+    mapa 1.0
+
+[33mcommit e94e85a4a0fd259ac5f8282449622254524c609f[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 11 22:04:08 2019 -0300
+
+    mapa
+
+[33mcommit cd763ec722abf6b43b12a5cdb95bcd7a69b57344[m
+Merge: cb7c5c3 7854785
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 22:10:09 2019 -0300
+
+    Merge pull request #1 from Curso-2019/tour
+    
+    Hice el modulo de Tour
+
+[33mcommit 785478576bd3853eefa8a09a4a55dd415e7177aa[m[33m ([m[1;31morigin/tour[m[33m, [m[1;32mtour[m[33m)[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 22:04:23 2019 -0300
+
+    esta mierda no se guarda
+
+[33mcommit cb7c5c30e53d44a849f88644322f23773db1c37c[m
+Merge: 7431aea cb5482f
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 22:02:51 2019 -0300
+
+    Merge pull request #2 from Curso-2019/hero
+    
+    Hero
+
+[33mcommit 53187bf8d9c1ba6267e2e5d770ebdb2700b32e1f[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 21:59:06 2019 -0300
+
+    Acomodé el html
+
+[33mcommit cb5482fa925cf12fd9b6bc01825da4d3ec92feff[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 11 21:43:10 2019 -0300
+
+    Puse que los about sean hijos de hero en el css
+
+[33mcommit 29ebe6e0f325a4f34a162fe107056de9f25fffb9[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Mon Sep 9 21:48:42 2019 -0300
+
+    He añadido ../../ para que aparezca la imagen
+
+[33mcommit 41860e4c2eedfad0f4f44841f6cff86c4f7ed3f6[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Mon Sep 9 21:34:50 2019 -0300
+
+    Saque margenes de la class=enlaces
+
+[33mcommit 13317fd0eb00a5240176a35b674066ffcefe2dc8[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Mon Sep 9 21:30:52 2019 -0300
+
+    Agregue la class=container
+
+[33mcommit 933617dfe352184093e28f334c8852cc1520501a[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Thu Sep 5 15:40:14 2019 -0300
+
+    De tanto intentar por fin logre el resultado que queria. terminado
+
+[33mcommit 7ec65032584a20eefd30e1c836c7d8640db46009[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Thu Sep 5 15:13:26 2019 -0300
+
+    Cambie y he movido las clases para solucionar un problema
+
+[33mcommit 86d5d98808fbf962e1b4429c5cd025e3c3554750[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Thu Sep 5 11:46:41 2019 -0300
+
+    Termine el header
+
+[33mcommit eb5b387ebc0adcaf09fc3dbded84d47a7c957fcd[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Thu Sep 5 11:08:50 2019 -0300
+
+    Agregue <class> a dos <a> que estan en la parte superior
+
+[33mcommit cbfc65484d7eeb50cec17c953280cd8b8c62d639[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 4 23:55:54 2019 -0300
+
+    He agregado el archivo hero.css y le estoy agreagando codigo
+
+[33mcommit 4d5857f11160ec45e11c1e5304f03be73eaf0da0[m
+Author: Martín Agüera <maguera37@gmail.com>
+Date:   Wed Sep 4 22:12:46 2019 -0300
+
+    He creado hero.html
+
+[33mcommit 7431aea998111ed6f00900c335762a997f7cbf0a[m
+Merge: 2c26c06 1443aac
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Wed Sep 11 21:47:24 2019 -0300
+
+    Merge pull request #7 from Curso-2019/footer
+    
+    Footer
+
+[33mcommit 24a616db86a580e77b5ead2a01f725208ee577b5[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 11 21:47:07 2019 -0300
+
+    Puse los respectivos padres en el css
+
+[33mcommit 1443aac1fef64d118a8f31345a923e2f5c2e9d34[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 11 21:45:56 2019 -0300
+
+    Ya we
+
+[33mcommit e9fc5cf7b0d9a9b917c3863587948b39089ceba7[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 11 21:42:32 2019 -0300
+
+    Correccion 1.3
+
+[33mcommit 8c9796ea7d738fa8397527381ca738fbcd3c67ba[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 11 21:39:09 2019 -0300
+
+    Correcciones 1.2
+
+[33mcommit f8c3c5315af20ef9f5bb2e76413247999018f247[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Mon Sep 9 22:08:51 2019 -0300
+
+    :V
+
+[33mcommit 830e3377ffc838f9666e5891605db3c3a02325dd[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Mon Sep 9 22:30:09 2019 -0300
+
+    no me dejaba cambiar de rama la mierda esya
+
+[33mcommit e11cb9608384b50ed103f398d2530edb7c5c1bf2[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Mon Sep 9 21:55:48 2019 -0300
+
+    primera prueba:v
+
+[33mcommit bb7cc437734f5ff64b44fbd9a494664ad1b7812f[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Fri Sep 6 22:15:54 2019 -0300
+
+    Empezando footer
+
+[33mcommit 2c26c06c324a51371d4db2231313564398358cea[m
+Merge: b714e58 406032e
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Mon Sep 9 22:24:41 2019 -0300
+
+    Merge pull request #3 from Curso-2019/post
+    
+    Post
+
+[33mcommit 406032ec798cfc0af520bde38e76c16ea2d36856[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Fri Sep 6 21:46:34 2019 -0300
+
+    post parte 3
+
+[33mcommit b818a87064c4cfba74718e36e5743fc50b2e8c49[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Fri Sep 6 21:43:52 2019 -0300
+
+    post parte 2
+
+[33mcommit 4dcdf3af27e26fc687e26b0e507faaa5413a3c83[m
+Author: Antonela Moreno <antomorenoap222@gmail.com>
+Date:   Wed Sep 4 23:06:44 2019 -0300
+
+    Post parte 1
+
+[33mcommit b714e58d96d910b9c974c5fb87c3bfed26a12bbf[m
+Merge: 45e08f7 d7eeb17
+Author: José Nicolás Cedrón <josenicolascedron@gmail.com>
+Date:   Mon Sep 9 22:17:14 2019 -0300
+
+    Merge pull request #5 from Curso-2019/feedback
+    
+    Feedback
+
+[33mcommit f87d473e0823b88d9ba9872c31e937edb2fda236[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Mon Sep 9 22:14:20 2019 -0300
+
+    Alinie bien los modulos ,y trate de indentar el html y css
+
+[33mcommit d7eeb17e0a6674b74836b74416984c80b682f98d[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: Juan Pablo Medina <juancitoo099@gmail.com>
+Date:   Fri Sep 6 23:01:43 2019 -0300
+
+    feedback 1.1
+
+[33mcommit d126e5975f6d0361bae6e55fcbd7fab6c47ba05c[m
+Author: Juan Pablo Medina <juancitoo099@gmail.com>
+Date:   Wed Sep 4 23:09:39 2019 -0300
+
+    feedback 1.0
+
+[33mcommit 065a29a46d74a3d7d4fadba28d92722803c5b6c4[m
+Author: vileD-riki <hasan_carrizo2002@hotmail.com>
+Date:   Wed Sep 4 23:06:08 2019 -0300
+
+    Hice el modulo de Tour
+
+[33mcommit 45e08f7fd4eefeb8137cdacb1bac4c732a58b379[m
+Author: Nicolas Cedron <josenicolascedron@gmail.com>
+Date:   Wed Sep 4 21:43:23 2019 -0300
+
+    Commit inicial
