@@ -1,7 +1,4 @@
-*{
-	box-sizing: border-box;
 
-}
 .search{
 	display:flex;
 	background:#33313b;
@@ -14,18 +11,15 @@
 	width:21%;
 	color:grey;
 	margin:0 auto;
-
-
-	
-
 }
-.name-search{
+
+.search .name-search{
 	color:rgba(255,255,255,.8);
 	font-size:18px;
 	
 
 }
-div.col-search{
+.search .col-search{
 	padding:0px 10px 0 10px;
 }
 .search button {
@@ -73,7 +67,4 @@ div.col-search{
 	-ms-appearance:none;
 	-o-appearance:none;
 	appearance:none;
-}
-.search .col-search ios-arrow-down{
-  
 }
