@@ -1,21 +1,4 @@
-*
-{
-    box-sizing: border-box;
-}
-
-.grid
-{
-    display: flex;
-}
-
-.col-vacation-icon
-{
-    width: 25%;
-    font-family: poppins;
-}
-
-
-.text-icon-content a, .text-icon-content p
+.vacation-icon .text-icon-content a, .vacation-icon .text-icon-content p
 {
     text-align: center;
     font-size: 16px;
@@ -23,18 +6,18 @@
     line-height: 1.8;
 }
 
-.text-icon-content a
+.vacation-icon .text-icon-content a
 {
     text-decoration: none;
     color: black;
 }
 
-.text-icon-content
+.vacation-icon .text-icon-content
 {
     text-align: center; /*Corregir posible error */
 }
 
-.text-icon-content h2
+.vacation-icon .text-icon-content h2
 {
     text-align: center;
     font-size: 18px;
@@ -43,7 +26,7 @@
 }
 
 
-.color999
+.vacation-icon .color999
 {
     color: #999;
 }
