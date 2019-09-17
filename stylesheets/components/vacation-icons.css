@@ -1,0 +1,52 @@
+.vacation-icon .text-icon-content a, .vacation-icon .text-icon-content p
+{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8;
+}
+
+.vacation-icon .text-icon-content a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.vacation-icon .text-icon-content
+{
+    text-align: center; /*Corregir posible error */
+}
+
+.vacation-icon .text-icon-content h2
+{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+
+.vacation-icon .color999
+{
+    color: #999;
+}
+
+.icon-locate
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: white;
+    background: black;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.icon-locate ion-icon
+{
+    font-size: 30px;
+}
