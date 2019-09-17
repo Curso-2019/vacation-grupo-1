@@ -10,14 +10,14 @@
     background-position: bottom;
     background-size: cover; 
     padding: 40px;
-    padding-bottom: 150px;
+    padding-bottom: 160px;
 }
-.container.flex
+.section-feedback .container.flex
 {
     display: flex;
 }
 
-.feedback
+.section-feedback .container.flex .col .feedback
 {
     background: white;
     padding: 20px;
@@ -25,13 +25,13 @@
     padding-right: 40px;
 }
 
-.img.person
+.section-feedback .container.flex .col .feedback .profile .img.person
 {
     width: 80px;
     border-radius: 50%;
 }
 
-.touristtittle
+.section-feedback .touristtittle
 {
     text-align: center;
     margin-bottom: 90px;
@@ -40,32 +40,28 @@
     line-height: 1.4;
 }
 
-.profile
+.section-feedback .container.flex .col .feedback .profile
 {
     display: flex;
     text-align: center;
     margin-top: 25px;
 }
 
-.description h3, .description h2
-{
-    font-weight: 500;
-}
-
-.description
+.section-feedback .container.flex .col .feedback .profile .description
 {
     text-align: left;
     padding-left: 20px;
     padding-top: 15px;
+    font-weight: 500;
 }
 
-.col
+.section-feedback .container.flex .col
 {
     width: 33.33%;
     padding-left: 25px;
 }
 
-.ptext
+.section-feedback .container.flex .col .feedback .ptext
 {
     font-size: 16px;
     font-weight: 400;
@@ -73,13 +69,13 @@
     line-height: 28.8px;
 }
 
-.h2name
+.section-feedback .container.flex .col .feedback .profile .description .h2name
 {
     font-size: 20px;
     font-weight: 500;
 }
 
-.h3rol
+.section-feedback .container.flex .col .feedback .profile .description .h3rol
 {
     font-size: 16px;
     font-weight: 400;
