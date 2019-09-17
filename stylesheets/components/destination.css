@@ -1,0 +1,56 @@
+.destination{
+	border:1px grey solid;	
+	font-family:Poppins;
+	
+}	
+.destination .image{
+	width:100%;
+	height:300px;
+	background-size: cover;
+	background-position:center center; 
+	
+}
+.precio{
+	background:orange;
+	color:white;
+	width:120px;
+	height:40px;
+	border-radius:90px;
+	padding:8px;
+	position:relative;
+	top:-20px;
+	margin:0 auto;
+	text-align:center;
+	font-size:17px;
+
+}
+.destination .destiny{
+	font-size:30px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+.destination .days{
+	color:grey;
+	font-size:20px;
+}
+.destination .destiny2{
+	color:grey;
+	font-size:25px;
+}
+.destination .infodestiny{
+	color:orange;
+}
+.destination .infodestiny span{
+	color:black;
+	padding:5px;
+}
+.destination a{
+	text-decoration:none;
+	color:black;
+}
+.destination:hover a .precio{
+   background:black;
+   transition:all 0.5s;
+   width:140px;
+}
