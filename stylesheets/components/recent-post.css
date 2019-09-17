@@ -1,0 +1,30 @@
+.recent-post{
+    display: flex;
+}
+.recent-post .img-recent-post{
+    width: 80px;
+    height: 80px;
+    margin-right: 24px;
+}
+.recent-post .img-recent-post img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.recent-post .box-recent-post .iconos-recent-post{
+    display: flex;
+}
+.recent-post .iconos-recent-post .boxes-recent-post{
+    display: flex;
+    color: gray;
+    margin-right: 5px;
+}
+.recent-post .text-recent-post p{
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 300;
+}
+.recent-post .iconos-recent-post .boxes-recent-post .textopeq-recent-post{
+    font-size: 12px;
+}
