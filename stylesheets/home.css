@@ -1,0 +1,43 @@
+.centrar-text-home{
+	text-align:center;
+	margin-top:10%;
+}
+.centrar-text-home .tittle-home h1{
+	font-size:60px;
+	font-weight:300;
+}
+.circle-orange-home{
+	height:80px;
+	width:80px;
+	border-radius:50%;
+	background:orange;
+	display:inline-block;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	margin:0 auto;
+
+}
+.circle-orange-home icon-icon{
+	color:white;
+
+
+}
+
+.flex-4{
+	display:flex;
+	justify-content:center;
+	margin-right:-20px;
+	margin-left:-20px;
+}
+.flex-4 .col{
+	width:25%;
+	padding:20px;
+}
+.flex-4 .col .tour{
+	width:100%;
+}
+.home-tour-view-tittle .h2{
+	font-size:50px;
+	text-align:center;
+}
