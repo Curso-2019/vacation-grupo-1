@@ -5,10 +5,13 @@
     font-family: 'Poppins';
     color: white;
     position: relative; 
+    min-height: 100vh;
 }
 
 .herobb{
     background: linear-gradient(40deg, rgba(47,136,252,0.2) 0%, rgba(255,89,89,0.2) 100%);
+    min-height: 100vh;
+    position: relative;
 }
 
 .header{
@@ -65,20 +68,18 @@
 }
 
 .hero .about{
+    position: absolute;
     display: flex;
     justify-content: center;
-    margin-top: 42%;
+    bottom: 0;
+    width: 100%;
+    left: 0;
 }
 
 .hero .about h1{
     font-size: 60px;
     line-height: 1.2;
     margin-bottom: 5%;
-}
-
-.hero .aboutbb{
-    position: absolute;
-    margin-top: -15%;
 }
 
 .hero .aboutbbb{
