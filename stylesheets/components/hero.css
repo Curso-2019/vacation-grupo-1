@@ -6,6 +6,7 @@
     color: white;
     position: relative; 
     min-height: 100vh;
+    background-attachment: fixed;
 }
 
 .herobb{
@@ -71,7 +72,7 @@
     position: absolute;
     display: flex;
     justify-content: center;
-    bottom: 0;
+    bottom: 70px;
     width: 100%;
     left: 0;
 }
