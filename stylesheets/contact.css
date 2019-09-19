@@ -1,4 +1,4 @@
-.contact-view .flex-4
+.contact-view .container-flex-4 .flex-4
 {
     display: flex;
 }
@@ -10,5 +10,19 @@
 
 .contact-view .container-flex-4
 {
-    padding: 112px;
+    padding: 112px 0;
 }
+
+.contact-view .flex-2 .col
+{
+    width: 50%;
+    padding: 15px;
+}
+
+.contact-view .flex-2
+{
+    display: flex;
+    margin: 0 -15px;
+    margin-bottom: 100px;
+}
+
