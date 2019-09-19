@@ -17,6 +17,8 @@
 @import 'components/search-bar.css';
 @import 'components/recent-post.css';
 @import 'components/post-content.css';
+@import 'components/h2.css';    
+
 
 /* Views */
 @import 'home.css';
