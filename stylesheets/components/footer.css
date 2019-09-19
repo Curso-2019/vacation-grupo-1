@@ -4,11 +4,13 @@ footer{
     background-size: cover;
     color: white;
     padding: 112px 0;
-    font-family: Poppins;
+    font-family: 'Poppins';
 }
 footer .container-footer{
     display: flex;
     justify-content: space-between;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 footer .container-footer .footer-col{
     padding: 0 15px;

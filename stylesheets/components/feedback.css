@@ -1,23 +1,22 @@
-*
-{
-    box-sizing: border-box;
-}
+
 
 .section-feedback
 {
-    font-family: Poppins;
+    font-family: 'Poppins';
     background: url(../../images/bg_3.jpg);
     background-position: bottom;
     background-size: cover; 
     padding: 40px;
     padding-bottom: 160px;
 }
-.section-feedback .container.flex
+.section-feedback .flex
 {
     display: flex;
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
-.section-feedback .container.flex .col .feedback
+.section-feedback .flex .col .feedback
 {
     background: white;
     padding: 20px;
@@ -25,7 +24,7 @@
     padding-right: 40px;
 }
 
-.section-feedback .container.flex .col .feedback .profile .img.person
+.section-feedback .flex .col .feedback .profile .img.person
 {
     width: 80px;
     border-radius: 50%;
@@ -40,14 +39,14 @@
     line-height: 1.4;
 }
 
-.section-feedback .container.flex .col .feedback .profile
+.section-feedback .flex .col .feedback .profile
 {
     display: flex;
     text-align: center;
     margin-top: 25px;
 }
 
-.section-feedback .container.flex .col .feedback .profile .description
+.section-feedback .flex .col .feedback .profile .description
 {
     text-align: left;
     padding-left: 20px;
@@ -55,13 +54,13 @@
     font-weight: 500;
 }
 
-.section-feedback .container.flex .col
+.section-feedback .flex .col
 {
     width: 33.33%;
-    padding-left: 25px;
+    padding: 10px;
 }
 
-.section-feedback .container.flex .col .feedback .ptext
+.section-feedback .flex .col .feedback .ptext
 {
     font-size: 16px;
     font-weight: 400;
@@ -69,13 +68,13 @@
     line-height: 28.8px;
 }
 
-.section-feedback .container.flex .col .feedback .profile .description .h2name
+.section-feedback .flex .col .feedback .profile .description .h2name
 {
     font-size: 20px;
     font-weight: 500;
 }
 
-.section-feedback .container.flex .col .feedback .profile .description .h3rol
+.section-feedback .flex .col .feedback .profile .description .h3rol
 {
     font-size: 16px;
     font-weight: 400;
