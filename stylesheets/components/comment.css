@@ -1,0 +1,55 @@
+.comment .flex-2
+{
+    display: flex;
+    font-family: poppins;
+}
+
+.comment .iconprofile img
+{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.comment .description h2
+{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.comment .description .date
+{
+    color: #ccc;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.comment .description p
+{
+    color: #999;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.comment .description .buttomsend
+{
+    padding: 5px 10px;
+    background: rgb(230, 230, 230);
+    width: 62px;
+    height: 26px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 11px;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.comment .comment
+{
+    padding-left: 40px;
+    margin-top: 20px;
+}

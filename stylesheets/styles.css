@@ -23,7 +23,8 @@
 @import 'components/category.css';
 @import 'components/title-blog.css';
 @import 'components/tag.css';
-
+@import 'components/author.css';
+@import 'components/comment.css';
 /* Views */
 @import 'home.css';
 @import 'about.css';
