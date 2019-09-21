@@ -1,0 +1,28 @@
+.author
+{
+    width: 100%;
+    display: flex;
+    font-family: poppins;
+    background: #f9fafb;
+    padding: 24px;
+}
+
+.iconprofile img
+{
+    width: 129px;
+    margin-right: 30px;
+}
+
+.author .description h2
+{
+    font-weight: 400;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.author .description p
+{
+    color: #999;
+    font-size: 16px;
+    font-weight: 400;
+}
