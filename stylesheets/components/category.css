@@ -1,0 +1,24 @@
+.category{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.category .box-category a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: #1a1a1a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+.category .box-category:last-child a{
+    border-bottom: none;
+}
+.category .box-category a .text-gray{
+    color: gray;
+}
+
