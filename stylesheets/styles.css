@@ -19,10 +19,9 @@
 @import 'components/post-content.css';
 @import 'components/h2.css';
 @import 'components/author.css'; 
-@import 'components/h2.css';    
 @import 'components/search-blog.css';
-@import 'components/h2.css'; 
 @import 'components/category.css';
+@import 'components/title-blog.css';
 
 /* Views */
 @import 'home.css';
