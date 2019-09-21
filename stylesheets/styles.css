@@ -22,6 +22,7 @@
 @import 'components/search-blog.css';
 @import 'components/category.css';
 @import 'components/title-blog.css';
+@import 'components/tag.css';
 
 /* Views */
 @import 'home.css';
