@@ -1,0 +1,18 @@
+.tags{
+    font-family: 'Poppins', sans-serif;
+}
+.tags a{
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 11px;
+    color: #000;
+    margin-right: 4px;
+    margin-bottom: 7px;
+    padding: 4px 10px;
+    display: inline-block;
+    font-weight: 400;
+}
+.tags a:hover{
+    border: 1px solid #000;
+}
