@@ -1,0 +1,24 @@
+.search-blog{
+    background: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.search-blog .search-b{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    font-family: 'Poppins';
+    color: #999999;
+}
+
+.search-blog .search-icon{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    color: #999999; 
+}
+
+
