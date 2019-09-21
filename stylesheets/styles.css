@@ -25,6 +25,8 @@
 @import 'components/tag.css';
 @import 'components/author.css';
 @import 'components/comment.css';
+@import 'components/title-blog-big.css';
+
 /* Views */
 @import 'home.css';
 @import 'about.css';
