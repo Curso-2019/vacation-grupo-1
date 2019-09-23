@@ -1,0 +1,164 @@
+@media screen and (max-width: 990px){
+
+    .hero{
+        background-attachment: unset
+    }
+    
+    .menu-about{
+        position: fixed;
+        background: black;
+        left: 0;
+        right: 0;
+
+
+    }
+
+    .header{
+        max-width: 100%;
+        position: relative;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+        height: 75px;
+    }
+
+    .header .vacaciones{
+        position: relative;
+        left: 120px;
+        padding: 15px 24px;
+    }
+
+    .memorable-section .col{
+        width: 60%;
+    }
+
+    .memorable-section .col .img{
+        width: 100%;
+        background-position: center center;
+        background-size: cover;
+        height: 120vh;
+    }
+
+    .memorable-section .memo-h2 {
+        font-size: 40px;
+    }
+
+    .memorable-section .n-n{
+        flex-wrap: nowrap;
+    }
+
+    .memorable-section h3{
+        font-size: 28px; 
+    }
+
+    .memorable-section .caja-bonita div{
+        padding: 0 15px; 
+    }
+
+}
+
+@media screen and (max-width: 768px){
+
+    .enlaces span{
+        padding: 0;
+    }
+
+    .box-adventure-sectionbb{
+        flex-flow: column-reverse;
+    }
+
+    .box-adventure-section{
+        padding-top: 96px;
+    }
+
+    .box-adventure-section .adventure-col h2{
+        font-size: 28px;
+    }
+
+    .box-adventure-section .adventure-col p, .box-adventure-section .adventure-col p{
+        font-size: 16px;
+    }
+
+    .box-adventure-section .adventure-icon-father, .box-adventure-section .adventure-icon-father{
+        display: block;
+        width: 100vh;
+    }
+
+    .box-adventure-section .adventure-col.paddin{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        margin-bottom: -80px;
+    }
+
+    .box-adventure-section .adventure-icon, .box-adventure-section .adventure-icon, .box-adventure-section .adventure-icon, .box-adventure-section .adventure-icon{
+        width: 100vh;
+    }
+
+    .box-adventure-section .adventure-icon .icon{
+        padding-top: 0;
+    }
+
+    .memorable-section{
+        flex-flow: column;
+    }
+
+    .memorable-section .col, .memorable-section .col.padding{
+        width: 100%;
+    }
+
+    .memorable-section .col .img{
+        height: 400px;
+        background-position: top center;
+    }
+
+    .memorable-section .col.padding{
+        padding: 0;
+        padding-bottom: 100px;
+    }
+
+    .memorable-section .memo-h2{
+        font-size: 28px;
+    }
+
+    .memorable-section .n-n{
+        display: block;
+    }
+
+    .memorable-section .caja-bonita{
+        margin-bottom: 20px;
+        height: 100px;
+    }
+
+    .section-feedback .flex{
+        display: block;
+    }
+
+    .section-feedback .flex .col{
+        margin: 0;
+        width: 100%;
+    }
+
+    .section-feedback .flex .col .feedback{
+        width: 100%;
+    }
+
+
+    footer .container-footer{
+        display: block;
+    }
+
+    footer .container-footer .footer-col{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    footer .container-footer .footer-col .redes-footer{
+        width: 100%;
+        height: 100px;
+        margin-bottom: 40px;
+    }
+
+
+}
