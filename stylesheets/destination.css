@@ -1,0 +1,23 @@
+.destination-view .tour-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.destination-view .tour-col{
+    width:25%;
+    padding:10px;
+}
+
+
+
+
+
+.destination-view .flex-3{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.destination-view .flex-3 .col{
+    width: 33.33%;
+    padding:10px;
+}
