@@ -24,3 +24,8 @@
     padding:10px;
 }
 
+@media screen and (max-width:768px){
+    .destination-view .tour-col{
+        width:100%;
+    }
+}
