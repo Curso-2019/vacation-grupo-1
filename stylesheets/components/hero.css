@@ -104,3 +104,45 @@
 .hero .aboutbbb p{
     color: #f2f2f2;
 }
+
+
+
+@media screen and (max-width: 991px){
+
+    .hero{
+        background-attachment: unset;
+        height: 70px;
+        position: fixed;
+        left: 0;
+        right: 0;   
+    }
+
+    .hero .header{
+        background: black;
+        height: 70px;
+        position: fixed;
+        left: 0;
+        right: 0;
+    }
+
+    .hero .header .vacaciones{
+        left: 125px;
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+
+    .hero .header .enlaces{
+        margin-top: 25px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 967px){
+
+    .hero .header .vacaciones{
+        left: 98px;
+    }
+}
