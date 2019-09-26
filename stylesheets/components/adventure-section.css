@@ -76,7 +76,7 @@
         flex-direction: column-reverse;
     }
 
-    .box-adventure-section .adventure-col.center{
+    .box-adventure-section .adventure-col .adventure-icon{
         text-align: center;
         margin-top: auto;
     }
