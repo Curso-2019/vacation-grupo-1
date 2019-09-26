@@ -6,11 +6,14 @@
 
 .box-adventure-sectionbb{
     display: flex;
+    margin-left: -20px;
+    margin-right: -20px;
 }
 
 .box-adventure-section .adventure-col{
     width: 50%;
     margin-top: 95px;
+    padding: 20px;
 }
 
 .box-adventure-section .adventure-icon-father{
@@ -39,11 +42,7 @@
 
 .box-adventure-section .adventure-icon-father .adventure-icon p{
     line-height: 1.8;
-    font-size: 17px;
-}
-
-.box-adventure-section .adventure-col.paddin{
-    padding-left: 31px;
+    font-size: 16px;
 }
 
 .box-adventure-section .adventure-col h2{
@@ -67,4 +66,31 @@
     background: orange;
     padding: 18px 25px;
     border-radius: 30px;
+}
+
+
+@media screen and (max-width: 768px ){
+
+    .box-adventure-section .box-adventure-sectionbb{
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .box-adventure-section .adventure-col.center{
+        text-align: center;
+        margin-top: auto;
+    }
+
+    .box-adventure-section .adventure-col{
+        width: 100%;
+    }
+    
+}
+
+@media screen and (max-width: 600px ){
+
+    .box-adventure-section .adventure-col .adventure-icon-father{
+        flex-wrap: wrap;
+    }
+
 }
