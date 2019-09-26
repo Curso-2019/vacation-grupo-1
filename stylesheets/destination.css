@@ -27,5 +27,23 @@
 @media screen and (max-width:768px){
     .destination-view .tour-col{
         width:100%;
+        
+    }
+
+    .destination-view .flex-3 .col{
+        width:50%;
+    }
+
+    .destination-view .flex-3 {
+        justify-content: center;
     }
 }
+
+@media screen and (max-width:600px){
+
+    .destination-view .flex-3 .col{
+        width:100%;
+    }
+
+}
+
