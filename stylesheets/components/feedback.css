@@ -80,3 +80,22 @@
     font-weight: 400;
     color: #ccc;
 }
+
+@media screen and (max-width: 768px)
+{
+    .section-feedback
+    {
+        padding: 4%;
+    }
+
+    .section-feedback .flex
+    {
+        flex-wrap: wrap;
+    }
+
+    .section-feedback .flex .col
+    {
+        width: 100%;
+        padding: 10px;
+    }
+}
