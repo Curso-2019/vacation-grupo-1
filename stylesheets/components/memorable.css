@@ -85,3 +85,20 @@
     }
     
 }
+
+@media screen and (max-width:600px){
+    .memorable-section .col .img{
+        height: 420px; 
+    }
+    .memorable-section .col{
+        width:100%;
+    }
+    .memorable-section .col.padding{
+        padding:0;
+    }
+    .memorable-section .caja-bonita{
+        width:100%;
+        margin: 25px 0 
+    }
+    
+}
