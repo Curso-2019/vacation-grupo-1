@@ -118,9 +118,6 @@
         display: none;
         margin-top: 0;
         width: 100%;
-        position: absolute;
-        top: 60px;
-        left: 0;
         background: black;
         padding: 0 60px;
     }
@@ -138,7 +135,6 @@
     
     .hero .header{
         align-items: center;
-        height: 75px;
         flex-wrap: wrap;
     }
     
@@ -160,8 +156,6 @@
         height: 75px;
         align-items: center;
         display: flex;
-        position: relative;
-        right: 35px;
         z-index: 22;
     }
     
