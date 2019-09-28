@@ -1,12 +1,12 @@
-.centrar-text-home{
+ .home-view .centrar-text-home{
 	text-align:center;
 	margin-top:10%;
 }
-.centrar-text-home .tittle-home h1{
+.home-view .centrar-text-home .tittle-home h1{
 	font-size:60px;
 	font-weight:300;
 }
-.circle-orange-home{
+.home-view .circle-orange-home{
 	height:80px;
 	width:80px;
 	border-radius:50%;
@@ -18,7 +18,7 @@
 	margin:0 auto;
 
 }
-.circle-orange-home icon-icon{
+.home-view .circle-orange-home icon-icon{
 	color:white;
 
 
