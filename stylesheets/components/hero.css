@@ -9,23 +9,23 @@
     background-attachment: fixed;
 }
 
-.herobb{
+.hero .herobb{
     background: linear-gradient(40deg, rgba(47,136,252,0.2) 0%, rgba(255,89,89,0.2) 100%);
     min-height: 100vh;
     position: relative;
 }
 
-.header{
+.hero .header{
     display: flex;
     justify-content: space-between;
 }
 
-.header a, .enlaces a{
+.hero .header a, .enlaces a{
     text-decoration: none;
     color: white;
 }
 
-.vacaciones {
+.hero .vacaciones {
     background: #33313b;
     font-weight: 700;
     font-size: 24px;
@@ -34,7 +34,7 @@
     text-align: center;
 }
 
-.vacaciones span{
+.hero .vacaciones span{
     font-size: 12px;
     font-weight: 600;
     display: block;
@@ -42,22 +42,23 @@
     text-transform: uppercase;
 }
 
-.enlaces{
+.hero .enlaces{
+    display: flex;
     margin-top: 33px;
 }
 
-.enlaces a{
+.hero .enlaces a{
     font-size: 15px;
     padding: 0 16px;
     font-weight: 400;
 }
 
-.enlaces a:hover{
+.hero .enlaces a:hover{
     color: black;
     transition: 1.2s;
 }
 
-.enlaces  .orange{
+.hero .enlaces  .orange{
     color: orange;
 }
 
@@ -105,44 +106,64 @@
     color: #f2f2f2;
 }
 
+.hero .header .menu{
+    display: none;
+}
+
 
 
 @media screen and (max-width: 991px){
-
-    .hero{
-        background-attachment: unset;
-        height: 70px;
-        position: fixed;
-        left: 0;
-        right: 0;   
-    }
-
-    .hero .header{
-        background: black;
-        height: 70px;
-        position: fixed;
-        left: 0;
-        right: 0;
-    }
-
-    .hero .header .vacaciones{
-        left: 125px;
-        position: relative;
-        display: flex;
-        align-items: center;
-    }
-
+    
     .hero .header .enlaces{
-        margin-top: 25px;
+        display: none;
+        margin-top: 0;
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background: black;
+        padding: 0 60px;
     }
-
-
-
-}
-
-@media screen and (max-width: 967px){
-
+    
+    .hero .header .enlaces a{
+        display: inline-block;
+        padding: 20px 0;
+        border-bottom: 1px solid #2e2c2c;    
+        width: 100%;
+    }
+    
+    .hero .header-container{
+        background: black;
+    }
+    
+    .hero .header{
+        align-items: center;
+        height: 75px;
+        flex-wrap: wrap;
+    }
+    
+    .hero .header .menu{
+        display: block;
+        color: gray;
+        cursor: pointer;
+    }
+    
+    .hero .header .menu span{
+        color: gray;
+        font-size: 25px;
+        position: relative;
+        top: 6px;
+        
+    }
+    
     .hero .header .vacaciones{
-        left: 98px;
+        height: 75px;
+        align-items: center;
+        display: flex;
+        position: relative;
+        right: 35px;
+        z-index: 22;
     }
+    
+    
 }
