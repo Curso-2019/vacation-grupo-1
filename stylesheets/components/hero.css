@@ -113,7 +113,6 @@
 .hero .menu-fixed{
     background: white !important;
     box-shadow: 0px 0px 10px 0px black;
-    transition: all 1s;
 }
 
 .hero .menu-fixed .enlaces a{
@@ -125,6 +124,7 @@
     top: 0;
     width: 100%;
     z-index: 9999;
+    transition: all 1s;
 }
 
 @media screen and (max-width: 991px){
@@ -133,7 +133,6 @@
         display: none;
         margin-top: 0;
         width: 100%;
-        background: black;
         padding: 0 60px;
     }
     
@@ -146,8 +145,6 @@
 
     .hero .header-container{
         background: black;
-        
-        top: 0;
         width: 100%;
         z-index: 9999;
     }
