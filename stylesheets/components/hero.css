@@ -51,6 +51,7 @@
     font-size: 15px;
     padding: 0 16px;
     font-weight: 400;
+    transition: 1s;
 }
 
 .hero .enlaces a:hover{
@@ -58,7 +59,7 @@
     transition: 1.2s;
 }
 
-.hero .enlaces  .orange{
+.hero .enlaces  .orange, .hero .menu-fixed .enlaces .orange, .hero .aboutbbb a:hover{
     color: orange;
 }
 
@@ -97,11 +98,6 @@
     padding-right: 15px;
 }
 
-.hero .aboutbbb a:hover{
-    color: orange;
-    transition: 1s;
-}
-
 .hero .aboutbbb p{
     color: #f2f2f2;
 }
@@ -121,6 +117,7 @@
 .hero .menu-fixed .enlaces a{
     color: black;
 }
+
 
 .hero .header-container{
     position: fixed;
