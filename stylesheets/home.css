@@ -24,17 +24,17 @@
 
 }
 
-.flex-4{
+.home-view .flex-4{
 	display:flex;
 	justify-content:center;
 	margin-right:-20px;
 	margin-left:-20px;
 }
-.flex-4 .col{
+ .home-view .flex-4 .col{
 	width:25%;
 	padding:20px;
 }
-.flex-4 .col .tour{
+.home-view .flex-4 .col .tour{
 	width:100%;
 }
 .home-tour-view-tittle .h2{
