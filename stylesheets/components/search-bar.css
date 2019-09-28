@@ -68,3 +68,25 @@
 	-o-appearance:none;
 	appearance:none;
 }
+@media screen and (max-width:991px){
+	.search{
+		display:flex;
+		flex-wrap: wrap;
+	}
+	.search .col-search{
+		width:50%;
+		padding:20px;
+	}
+	.search .col-search:last-child{
+		width:100%;
+	}
+	.search button{
+		width:100%;
+	}
+
+}
+@media screen and (max-width:991px){
+	.search .col-search{
+		width:100%;
+	}
+}
