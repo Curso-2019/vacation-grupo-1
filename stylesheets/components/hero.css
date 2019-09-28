@@ -72,7 +72,7 @@
     position: absolute;
     display: flex;
     justify-content: center;
-    bottom: 70px;
+    bottom:0;
     width: 100%;
     left: 0;
 }
@@ -103,4 +103,8 @@
 
 .hero .aboutbbb p{
     color: #f2f2f2;
+}
+.hero .aboutbb{
+    padding-bottom:70px;
+    
 }
